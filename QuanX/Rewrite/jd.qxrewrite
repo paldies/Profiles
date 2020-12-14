@@ -1,0 +1,5 @@
+hostname = api.m.jd.com
+
+# 京东
+# > 初次使用时,打开Safari浏览器登录 https://bean.m.jd.com 点击签到获取cookie,请注意,仅可网页获取!!!
+https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js

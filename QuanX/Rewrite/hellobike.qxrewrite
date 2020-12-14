@@ -1,0 +1,5 @@
+hostname = gameapi.hellobike.com
+
+# 哈啰出行
+# > 打开 APP 进入签到页面: 我的 > 有哈有车
+^https:\/\/gameapi\.hellobike\.com\/api url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js

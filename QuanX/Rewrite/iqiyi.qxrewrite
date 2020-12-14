@@ -1,0 +1,5 @@
+hostname = *.iqiyi.com
+
+# 爱奇艺
+# > 打开爱奇艺App后(AppStore中国区)，点击"我的", 如通知成功获取cookie
+^https?:\/\/iface(\d)?\.iqiyi\.com\/ url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js

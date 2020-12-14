@@ -1,0 +1,5 @@
+hostname = *.v2ex.com
+
+# V2EX
+# > 浏览器打开https://www.v2ex.com/mission/daily ，待弹出获取成功即可
+^https:\/\/www\.v2ex\.com\/mission\/daily url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/quanx/v2ex.cookie.js

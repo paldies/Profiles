@@ -3,7 +3,7 @@
   "task": [
     {
       "config": "0 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/jd.qxrewrie"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/jd.qxrewrite"
     },
     {
       "config": "5 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iqiyi.png, enabled=true",

@@ -3,31 +3,31 @@
   "task": [
     {
       "config": "0 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/jd.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/jd_cookie.qxrewrite"
     },
     {
       "config": "5 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iqiyi.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/iqiyi.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/iqiyi_cookie.qxrewrite"
     },
     {
       "config": "10 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/52pojie.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/52pojie_cookie.qxrewrite"
     },
     {
       "config": "15 */30 0-8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qtt/qtt.js, tag=趣头条, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qtt.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/qutoutiao.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/qutoutiao_cookie.qxrewrite"
     },
     {
       "config": "20 0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/v2ex/quanx/v2ex.js, tag=V2EX, img-url=https://raw.githubusercontent.com/Orz-3/task/master/v2ex.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/v2ex.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/v2ex_cookie.qxrewrite"
     },
     {
       "config": "25 0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/task/master/meituan.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/meituan.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/meituan_cookie.qxrewrite"
     },
     {
       "config": "30 0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js, tag=哈啰出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/hellbike.png, enabled=true",
-      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/hellobike.qxrewrite"
+      "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/hellobike_cookie.qxrewrite"
     },
     {
       "config": "15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=中国联通, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/10010.png, enabled=true",

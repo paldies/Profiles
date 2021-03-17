@@ -6,7 +6,7 @@
       "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/jd_cookie.qxrewrite"
     },
     {
-      "config": "5 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iqiyi.png, enabled=true",
+      "config": "5 0 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/paldies/Profiles/main/QuanX/Rewrite/iqiyi_cookie.qxrewrite"
     },
     {
